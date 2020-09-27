@@ -1,2 +1,4 @@
 # hello-world
-My first repository.
+
+Hi! My name is Abdullokh.
+I am a beginner web developer.
